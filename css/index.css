@@ -1,4 +1,5 @@
 
-img {
-    width: 100%;
+#titleBackgroundPhoto {
+    border-radius: 30px;
+    background: url(../assets/nature.jpg), lightgray 50% / cover no-repeat;
 }
